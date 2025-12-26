@@ -1,0 +1,24 @@
+# Core Python utilities
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Natural Language Processing
+nltk
+vaderSentiment
+
+# OCR
+paddleocr
+opencv-python
+
+# GUI
+pillow
+
+# Visualization
+matplotlib
+
+# Logging (standard library, included for clarity)
+# logging is built-in, no installation required
