@@ -117,3 +117,6 @@ Product-Reviews-Analysis-System/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+#gmail ---- nagarkrrish907@gmail.com 
+gmail for more details and dataset
